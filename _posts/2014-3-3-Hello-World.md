@@ -1,10 +1,1 @@
----
-layout: post
-title: You're up and running!
----
-
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
-
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+I am a Senior Full Stack Ruby On Rails Developer having a 5+ year of proven experience in developing and providing solutions for web products of every scale. I graduated in Computer Engineering from Gujarat Technological University, India and currently working as a Sr. Ruby On Rails Developer. Having a strong passion and strength to solve complex and real-time problems using Software Technologies. Core expertise in various programming languages and Web Technologies. Expertise and strength to solve complex problems with an agile approach. Proficient programming skills using Ruby, Rails, Jquery, Javascript, Object-Oriented & functional methodologies and RESTful APIs.Intermediate knowledge of ReactJs and React Native. Result oriented, Self-driven, Highly motivated, smart and hungry to learn new technologies, methodologies, strategies, and processes.
